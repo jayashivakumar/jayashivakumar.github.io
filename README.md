@@ -1,22 +1,70 @@
-# Introduction
+## Introduction
 Hi, I am **Shiva Kumar Jayaraman**. I am a seasoned software engineer, and a competent Data Analyst. Below is a glimpse of my career so far. 
 My career began as an Software Engineer for an Embedded company. I have very keen eye for all things data so for the next phase of my career I pivot into becoming a **Data Scientist**. 
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
 <!-- [Link to another page](./another-page.html). -->
+***
 
-There should be whitespace between paragraphs.
+## Projects
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+[_**RestoReport: NLP-Driven Customer Insight Platform**_](https://shiva-kumarj.github.io/restoreport)
 
-# Header 1
+> Empowering restaurant owners to leverage the unexplored resource of customer reviews to improve their restaurant.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+_**Programmatic advertisement: Cost Per Million Prediction for Real-Time-Bidding**_
 
-## Header 2
+> Created statistical analysis of data and model building to predict optimum Cost Per Million for Real-Time Bidding with an error margin of ±0.43$.
 
-> This is a blockquote following a header.
+[_**Project Greenjade: Music recommendation engine (Based on your mood)**_](https://shiva-kumarj.github.io/greenjade) 
+
+> Recommends a few songs to help suited to the mood of the songs you pick.
+
+***
+
+## Experience
+
+My professional career has been multifaceted. I've been a Embedded Engineer largely in the first half. Now I create innovative solutions for interesting problems using Data Analysis, Natural Language Processing and Machine Learning. I am always learning new technologies and creating projects to integrate them into one cohesive product.
+
+<!-- **FlyEasy**
+_Mobile App Developer_
+- Frontend developer for the FlyEasy mobile application.
+- Converted design screens into working mockups. -->
+
+### Embedded Engineer
+
+**Qualcomm Inc**
+_Software Engineer: Developer_
+
+As an Engineer at Qualcomm Inc, I analyzed and fixed problems in mobile security modules, making sure systems worked smoothly. I also helped make Android security features for phones and IoT devices. In my role as a Developer and Triage Engineer at Qualcomm, I improved a low-power mode, reduced memory use, and made product documentation better. I also made testing faster, fixed important bugs, and worked with others to fix product issues.
+
+
+***
+
+### Technical Skills
+
+_**Programming Languages**_ : Python, LaTeX, PySpark, SparkSQL, Bash, HTML, CSS.
+
+_**Database**_: Microsoft SQL Server, SQL, MySQL, Hive, MongoDB, Data modeling.
+
+_**AWS Services**_: Glue, RDS, Athena, EMR, S3, EC2.
+
+_**Other Platforms**_: Linux, Docker, Databricks.
+
+***
+
+### Other Interests
+
+* IOT Makers: Smart City Hackathon
+  * VRSE College: IOT Makers
+  * Aditya Engineering College: IOT Makers\
+  
+* Avid book reader
+  * Favourite genres: Fantasy Fiction and self help.
+  
+
+> _The most important step is always the next one._ **Dalinar**
+
+<!-- > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
@@ -120,4 +168,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 
 ```
 The final element.
-```
+``` -->
